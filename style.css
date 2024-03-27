@@ -70,7 +70,7 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 60px;
   width: 100%;
 }
 
@@ -180,4 +180,9 @@ h1 {
 .manager-glory-llc {
   width: 570px;
   margin-bottom: 43px;
+}
+
+aside {
+  width: 420px;
+  height: 3508px;
 }
