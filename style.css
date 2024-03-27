@@ -12,13 +12,13 @@ body {
   margin: 0 auto;
   background: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  height: 1800px;
+  height: 1680px;
 }
 
 aside {
   width: 500px;
   background: #1e2939;
-  height: 1800px;
+  height: 1680px;
 }
 
 .cv-photo {
@@ -75,11 +75,11 @@ aside {
 main {
   padding: 40px;
   width: 100%;
-  height: 1800px;
+  height: 1680px;
 }
 
 .main-description {
-  width: 650px;
+  width: 100%;
 }
 
 .job-tittle {
@@ -188,5 +188,5 @@ h1 {
 
 aside {
   width: 420px;
-  height: 1800px;
+  height: 1680px;
 }
